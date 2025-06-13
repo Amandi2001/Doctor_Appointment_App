@@ -3,6 +3,8 @@
 A full-stack web application for managing doctor appointments, built with Angular and ASP.NET Core Web API.
 
 Key Features
+
+
 Patient Management : view, edit, and delete patient records.
 Appointment Booking : Schedule new appointments with necessary patient and date/time details.
 Appointment Status Tracking : View and update status (e.g., New, Done).
