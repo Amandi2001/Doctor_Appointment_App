@@ -1,0 +1,90 @@
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\appsettings.Development.json
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\appsettings.json
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Doctor Appoinment.staticwebassets.endpoints.json
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Doctor Appoinment.exe
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Doctor Appoinment.deps.json
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Doctor Appoinment.runtimeconfig.json
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Doctor Appoinment.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Doctor Appoinment.pdb
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Azure.Core.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Azure.Identity.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.ClientModel.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Memory.Data.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Text.Json.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor Appoinment.csproj.AssemblyReference.cache
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor Appoinment.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor Appoinment.AssemblyInfoInputs.cache
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor Appoinment.AssemblyInfo.cs
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor Appoinment.csproj.CoreCompileInputs.cache
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor Appoinment.MvcApplicationPartsAssemblyInfo.cs
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor Appoinment.MvcApplicationPartsAssemblyInfo.cache
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\scopedcss\bundle\Doctor Appoinment.styles.css
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\staticwebassets\msbuild.Doctor Appoinment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\staticwebassets\msbuild.Doctor Appoinment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\staticwebassets\msbuild.build.Doctor Appoinment.props
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Doctor Appoinment.props
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Doctor Appoinment.props
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor A.0F878A90.Up2Date
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor Appoinment.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\refint\Doctor Appoinment.dll
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor Appoinment.pdb
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\Doctor Appoinment.genruntimeconfig.cache
+D:\.net projects\Doctor Appoinment\Doctor Appoinment\obj\Debug\net8.0\ref\Doctor Appoinment.dll
