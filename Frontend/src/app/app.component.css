@@ -1,0 +1,66 @@
+body {
+      background: linear-gradient(135deg, #2c3e50, #4ca1af);
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    .login-box {
+      background-color: #ffffff;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+      width: 100%;
+      max-width: 400px;
+      animation: fadeInUp 1s ease-in-out;
+    }
+
+    .login-box .form-control {
+      border-radius: 8px;
+    }
+
+    .login-box h2 {
+      margin-bottom: 30px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .form-icon {
+      position: absolute;
+      left: 15px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #aaa;
+    }
+
+    .form-group {
+      position: relative;
+      margin-bottom: 25px;
+    }
+
+    .form-control::placeholder {
+      padding-left: 30px;
+    }
+
+    .btn-custom {
+      background-color: #4ca1af;
+      color: white;
+      font-weight: bold;
+    }
+
+    .btn-custom:hover {
+      background-color: #357d89;
+    }
+
+    @keyframes fadeInUp {
+      from {
+        transform: translateY(30px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
